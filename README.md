@@ -1,5 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/70681172/144738690-4a35b839-554c-4fd7-ba42-a9db433bc4d8.png)
-
+# Clustering Algorithms and their Application to Facial Image Analysis
 
 # Useful links
 https://github.com/becauseofAI/HelloFace <br />
