@@ -27,6 +27,17 @@ The test database is not published for [facecup](https://facecup.ir/) challenge 
 
 
 
+# Useful links
+
+- https://github.com/becauseofAI/HelloFace
+- https://github.com/ChanChiChoi/awesome-Face_Recognition
+- https://github.com/zhoushengisnoob/DeepClustering
+- https://github.com/polarisZhao/awesome-face
+- https://github.com/RizhaoCai/Awesome-FAS
+- https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection
+- https://awesomeopensource.com/projects/face-detection
+- https://gitlist.top/lists/face-recognition
+
 
 
 # References
@@ -44,18 +55,3 @@ The test database is not published for [facecup](https://facecup.ir/) challenge 
 - https://github.com/deepinsight/insightface
 - https://en.wikipedia.org/wiki/Cluster_analysis
 - https://scikit-learn.org/stable/modules/clustering.html
-
-
-
-
-
-# Useful links
-
-https://github.com/becauseofAI/HelloFace <br />
-https://github.com/ChanChiChoi/awesome-Face_Recognition <br />
-https://github.com/zhoushengisnoob/DeepClustering <br />
-https://github.com/polarisZhao/awesome-face <br />
-https://github.com/RizhaoCai/Awesome-FAS <br />
-https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection <br />
-https://awesomeopensource.com/projects/face-detection <br />
-https://gitlist.top/lists/face-recognition <br />
