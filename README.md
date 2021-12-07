@@ -1,17 +1,25 @@
 # Clustering Algorithms and their Application to Facial Image Analysis
 
+[TOC]
+
+# Introduction
+
 ![img](https://user-images.githubusercontent.com/70681172/144739072-353912d2-0fc5-4180-a7ab-5355302a80a5.png)
 
 
 
 # Syllabus
 
+Contents of presentation file is as follows:
+
 1. **Introduction** (Machine Learning: Clustering vs Classification vs Regression, and Face Clustering)
 2. **Clustering Algorithms** (K-means, etc.)
 3. **Evaluation** (Purity, Rand index, F-measure, and NMI)
 4. **Face Analysis** (Face Detection, Face Preprocessing, Face Recognition, and Face Clustering)
 
-# Implementation
+**Download**: [Presentation](https://github.com/hamidsadeghi68/face-clustering) (coming soon), [videos](https://github.com/hamidsadeghi68/face-clustering) (coming soon)
+
+# Implementations
 
 - [x] Evaluation metrics ([Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
 - [ ] coming soon ...
@@ -21,8 +29,6 @@
 # FaceCup dataset
 
 The test database is not published for [facecup](https://facecup.ir/) challenge purposes. Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image file name as follows:
-
-
 
 ![image](https://user-images.githubusercontent.com/70681172/144975617-a3bff6c2-8a16-48d6-86c1-ba252abf4128.png)
 
