@@ -1,6 +1,6 @@
 # Clustering Algorithms and their Application to Facial Image Analysis
 
-[TOC]
+
 
 # Introduction
 
@@ -17,12 +17,12 @@ Contents of presentation file is as follows:
 3. **Evaluation** (Purity, Rand index, F-measure, and NMI)
 4. **Face Analysis** (Face Detection, Face Preprocessing, Face Recognition, and Face Clustering)
 
-**Download**: [Presentation](https://github.com/hamidsadeghi68/face-clustering) (coming soon), [videos](https://github.com/hamidsadeghi68/face-clustering) (coming soon)
+- [ ] **Download**: [Presentation](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*), [videos](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*)
 
 # Implementations
 
 - [x] Evaluation metrics ([Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
-- [ ] coming soon ...
+- [ ] *coming soon* ...
 
 
 
@@ -34,7 +34,7 @@ The test database is not published for [facecup](https://facecup.ir/) challenge 
 
 
 
-**Download**: [Google Drive](https://github.com/hamidsadeghi68/face-clustering) (coming soon), [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286)
+- [ ] **Download**: [Google Drive](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*), [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286)
 
 
 
