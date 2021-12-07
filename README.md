@@ -4,7 +4,7 @@
 
 # FaceCup dataset
 
-The test database is not published for [facecup](https://facecup.ir/) challenge purposes. Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image name as follows:
+The test database is not published for [facecup](https://facecup.ir/) challenge purposes. Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image file name as follows:
 
 
 
