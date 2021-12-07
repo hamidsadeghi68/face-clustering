@@ -6,10 +6,10 @@
 
 # Syllabus
 
-- [ ] **Introduction** (Machine Learning: Clustering vs Classification vs Regression, and Face Clustering)
-- [ ] **Clustering Algorithms** (K-means, etc.)
-- [ ] **Evaluation** (Purity, Rand index, F-measure, and NMI)
-- [ ] **Face Analysis** (Face Detection, Face Preprocessing, Face Recognition, and Face Clustering)
+1. **Introduction** (Machine Learning: Clustering vs Classification vs Regression, and Face Clustering)
+2. **Clustering Algorithms** (K-means, etc.)
+3. **Evaluation** (Purity, Rand index, F-measure, and NMI)
+4. **Face Analysis** (Face Detection, Face Preprocessing, Face Recognition, and Face Clustering)
 
 
 
