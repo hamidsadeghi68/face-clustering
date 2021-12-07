@@ -12,8 +12,7 @@ The test database is not published for [facecup](https://facecup.ir/) challenge 
 
 
 
-
-**Download**: [Google Drive]() (coming soon), [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286)
+**Download**: [Google Drive](https://github.com/hamidsadeghi68/face-clustering) (coming soon), [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286)
 
 
 
