@@ -8,48 +8,34 @@ The test database is not published for [facecup](https://facecup.ir/) challenge 
 
 
 
-![](F:\minor projects\nextera\teaching\dataset\names.png)
+![image](https://user-images.githubusercontent.com/70681172/144975617-a3bff6c2-8a16-48d6-86c1-ba252abf4128.png)
 
 
 
-**Download**: 
 
-[Google Drive]() (coming soon), [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286)
+**Download**: [Google Drive]() (coming soon), [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286)
 
 
 
 # references
 
-C. M. Bishop, [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop - Pattern Recognition And Machine Learning - Springer  2006.pdf), Ch. 9: Mixture Models and EM
-
-Handbook of Statistics, [Chapter 8: Machine Learning](https://www.sciencedirect.com/science/article/abs/pii/S0169716118300191), Elsevier, 2018
-
-Zhang, Kaipeng, et al. "[Joint face detection and alignment using multitask cascaded convolutional networks.](https://arxiv.org/pdf/1604.02878)" IEEE Signal Processing Letters 23.10 (2016): 1499-1503.
-
-https://github.com/ipazc/mtcnn
-
-https://github.com/deepinsight/insightface
-
-https://en.wikipedia.org/wiki/Cluster_analysis
-
-https://scikit-learn.org/stable/modules/clustering.html
+C. M. Bishop, [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf), Ch. 9: Mixture Models and EM <br />
+Handbook of Statistics, [Chapter 8: Machine Learning](https://www.sciencedirect.com/science/article/abs/pii/S0169716118300191), Elsevier, 2018 <br />
+Zhang, Kaipeng, et al. "[Joint face detection and alignment using multitask cascaded convolutional networks.](https://arxiv.org/pdf/1604.02878)" IEEE Signal Processing Letters 23.10 (2016): 1499-1503. <br />
+https://github.com/ipazc/mtcnn <br />
+https://github.com/deepinsight/insightface <br />
+https://en.wikipedia.org/wiki/Cluster_analysis <br />
+https://scikit-learn.org/stable/modules/clustering.html <br />
 
 
 
 # Useful links
 
-https://github.com/becauseofAI/HelloFace
-
-https://github.com/ChanChiChoi/awesome-Face_Recognition
-
-https://github.com/zhoushengisnoob/DeepClustering
-
-https://github.com/polarisZhao/awesome-face
-
-https://github.com/RizhaoCai/Awesome-FAS
-
-https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection
-
-https://awesomeopensource.com/projects/face-detection
-
-https://gitlist.top/lists/face-recognition
+https://github.com/becauseofAI/HelloFace <br />
+https://github.com/ChanChiChoi/awesome-Face_Recognition <br />
+https://github.com/zhoushengisnoob/DeepClustering <br />
+https://github.com/polarisZhao/awesome-face <br />
+https://github.com/RizhaoCai/Awesome-FAS <br />
+https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection <br />
+https://awesomeopensource.com/projects/face-detection <br />
+https://gitlist.top/lists/face-recognition <br />
