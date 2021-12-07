@@ -4,14 +4,15 @@
 
 # FaceCup dataset
 
-Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image name as follows:
+The test database is not published for [facecup](https://facecup.ir/) challenge purposes. Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image name as follows:
 
 ![image-20211207091005963](C:\Users\Tandis\AppData\Roaming\Typora\typora-user-images\image-20211207091005963.png)
 
-Download link: 
 
-[Google Drive]: 	"coming soon"
-[FaceCup]: https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286	"private"
+
+**Download**: 
+
+[Google Drive]() (coming soon), [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286)
 
 
 
