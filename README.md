@@ -42,8 +42,8 @@ The test database is not published for [facecup](https://facecup.ir/) challenge 
 
 # References
 
-- C. M. Bishop, [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf), Ch. 9: Mixture Models and EM
-- Handbook of Statistics, [Chapter 8: Machine Learning](https://www.sciencedirect.com/science/article/abs/pii/S0169716118300191), Elsevier, 2018
+- C. M. Bishop, [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf), Chapter 9: Mixture Models and EM
+- Shobha, G., & Rangaswamy, S. (2018). [Chapter 8: Machine Learning](https://www.sciencedirect.com/science/article/abs/pii/S0169716118300191), In *Handbook of statistics* (Vol. 38, pp. 197-228). Elsevier.
 - Zhang, Kaipeng, et al. "[Joint face detection and alignment using multitask cascaded convolutional networks.](https://arxiv.org/pdf/1604.02878)" IEEE Signal Processing Letters 23.10 (2016): 1499-1503.
 - Viola, P., & Jones, M. (2001, December). [Rapid object detection using a boosted cascade of simple features](https://merl.com/publications/docs/TR2004-043.pdf). In *Proceedings of the 2001 IEEE computer society conference on computer vision and pattern recognition. CVPR 2001* (Vol. 1, pp. I-I). Ieee. 
 - Deng, J., et al.  (2020). Retinaface: [Single-shot multi-level face localisation in the wild](https://openaccess.thecvf.com/content_CVPR_2020/papers/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.pdf). In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 5203-5212).
