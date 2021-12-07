@@ -11,6 +11,12 @@
 3. **Evaluation** (Purity, Rand index, F-measure, and NMI)
 4. **Face Analysis** (Face Detection, Face Preprocessing, Face Recognition, and Face Clustering)
 
+# Implementation
+
+- [ ] coming soon ...
+
+- [ ] ...
+
 
 
 # FaceCup dataset
