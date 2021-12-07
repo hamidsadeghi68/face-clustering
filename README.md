@@ -6,7 +6,7 @@
 
 The test database is not published for [facecup](https://facecup.ir/) challenge purposes. Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image name as follows:
 
-![image-20211207091005963](C:\Users\Tandis\AppData\Roaming\Typora\typora-user-images\image-20211207091005963.png)
+![image](https://user-images.githubusercontent.com/70681172/144974292-43d7b357-2cc4-4564-a6e7-7b924023c8e7.png)
 
 
 
