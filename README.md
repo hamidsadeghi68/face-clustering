@@ -13,7 +13,7 @@
 
 # Implementation
 
-- [ ] Evaluation metrics ([Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
+- [x] Evaluation metrics ([Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
 - [ ] coming soon ...
 
 
