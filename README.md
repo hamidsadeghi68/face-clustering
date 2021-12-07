@@ -28,7 +28,7 @@ Contents of presentation file is as follows:
 
 # FaceCup dataset
 
-The test database is not published for [facecup](https://facecup.ir/) challenge purposes. Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image file name as follows:
+The test dataset is not published for [facecup](https://facecup.ir/) challenge purposes. Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image file name as follows:
 
 ![image](https://user-images.githubusercontent.com/70681172/144975617-a3bff6c2-8a16-48d6-86c1-ba252abf4128.png)
 
