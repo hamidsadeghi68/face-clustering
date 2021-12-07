@@ -2,6 +2,8 @@
 
 ![img](https://user-images.githubusercontent.com/70681172/144739072-353912d2-0fc5-4180-a7ab-5355302a80a5.png)
 
+
+
 # FaceCup dataset
 
 The test database is not published for [facecup](https://facecup.ir/) challenge purposes. Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image file name as follows:
@@ -16,6 +18,8 @@ The test database is not published for [facecup](https://facecup.ir/) challenge 
 
 
 
+
+
 # references
 
 C. M. Bishop, [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf), Ch. 9: Mixture Models and EM <br />
@@ -25,6 +29,8 @@ https://github.com/ipazc/mtcnn <br />
 https://github.com/deepinsight/insightface <br />
 https://en.wikipedia.org/wiki/Cluster_analysis <br />
 https://scikit-learn.org/stable/modules/clustering.html <br />
+
+
 
 
 
