@@ -8,7 +8,7 @@ def match(template1, template2, metric='Euclidean'):
     if metric == 'Euclidean':
         # Euclidean distance
         diff = np.subtract(template1, template2)
-        return np.sqrt(np.sum(np.square(diff), 1))
+        return np.sqrt(np.sum(np.square(diff)))
     elif metric == 'Cosine':
         # Cosine Similarity
         return np.dot(template1, template2.T)
