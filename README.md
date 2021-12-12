@@ -17,10 +17,10 @@ Contents of presentation file is as follows:
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Clustering
 
 ​	2- **Clustering Algorithms**<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Introduction to clustering algorithms (categorization)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - K-means clustering<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - DBSCAN clustering<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Agglomerative clustering<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Introduction to Clustering Algorithms (Categorization)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - K-means Clustering<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - DBSCAN Clustering<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Agglomerative Clustering<br>
 
 ​	3- **Evaluation Metrics**<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Purity<br>
