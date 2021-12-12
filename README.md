@@ -12,35 +12,27 @@
 
 Contents of presentation file is as follows:
 
-​	1- **Introduction** (Machine Learning: Clustering vs Classification vs Regression, and Face Clustering)
+​	1- **Introduction**<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Machine Learning: Clustering vs Classification and Regression<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Face Clustering
 
-​	2- **Clustering Algorithms**
-​			- Introduction to clustering algorithms (categorization)
-​			- K-means
+​	2- **Clustering Algorithms**<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Introduction to clustering algorithms (categorization)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - K-means<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - DBSCAN<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Agglomerative<br>
 
-​			- DBSCAN
+​	3- **Evaluation Metrics**<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Purity<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Rand index<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - F-measure<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Normalized Mutual Information (NMI)
 
-​			- Agglomerative
-
-​	3- **Evaluation Metrics**
-
-​			- Purity
-
-​			- Rand index
-
-​			- F-measure
-
-​			- NMI
-
-​	4- **Face Analysis**
-
-​			- Face Detection
-
-​			- Face Preprocessing
-
-​			- Face Recognition
-
-​			- A Complete Face Clustering System
+​	4- **Face Analysis**<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Face Detection<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Face Preprocessing<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering Algorithm
 
 - [ ] **Download**: [Presentation](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*), [videos](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*)
 
