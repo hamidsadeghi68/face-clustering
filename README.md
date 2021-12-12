@@ -32,7 +32,7 @@ Contents of presentation file is as follows:
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Detection<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Preprocessing<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering Algorithm
+&nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering System
 
 - [ ] **Download**: [Presentation](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*), [videos](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*)
 
