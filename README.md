@@ -12,10 +12,37 @@
 
 Contents of presentation file is as follows:
 
-1. **Introduction** (Machine Learning: Clustering vs Classification vs Regression, and Face Clustering)
-2. **Clustering Algorithms** (K-means, etc.)
-3. **Evaluation** (Purity, Rand index, F-measure, and NMI)
-4. **Face Analysis** (Face Detection, Face Preprocessing, Face Recognition, and Face Clustering)
+​	1- **Introduction** (Machine Learning: Clustering vs Classification vs Regression, and Face Clustering)
+
+​	2- **Clustering Algorithms**
+
+​			- Introduction to clustering algorithms (categorization)
+
+​			- K-means
+
+​			- DBSCAN
+
+​			- Agglomerative
+
+​	3- **Evaluation Metrics**
+
+​			- Purity
+
+​			- Rand index
+
+​			- F-measure
+
+​			- NMI
+
+​	4- **Face Analysis**
+
+​			- Face Detection
+
+​			- Face Preprocessing
+
+​			- Face Recognition
+
+​			- A Complete Face Clustering System
 
 - [ ] **Download**: [Presentation](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*), [videos](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*)
 
