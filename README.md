@@ -18,9 +18,9 @@ Contents of presentation file is as follows:
 
 ​	2- **Clustering Algorithms**<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Introduction to clustering algorithms (categorization)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - K-means<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - DBSCAN<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Agglomerative<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - K-means clustering<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - DBSCAN clustering<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Agglomerative clustering<br>
 
 ​	3- **Evaluation Metrics**<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Purity<br>
