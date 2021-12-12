@@ -15,9 +15,7 @@ Contents of presentation file is as follows:
 ​	1- **Introduction** (Machine Learning: Clustering vs Classification vs Regression, and Face Clustering)
 
 ​	2- **Clustering Algorithms**
-
 ​			- Introduction to clustering algorithms (categorization)
-
 ​			- K-means
 
 ​			- DBSCAN
