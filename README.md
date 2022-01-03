@@ -34,11 +34,11 @@ Contents of presentation file is as follows:
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering System
 
-- [ ] **Download**: [Presentation](https://github.com/hamidsadeghi68/face-clustering) ([part1](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation%20(clustering%20algorithms)-part1.pdf), *coming soon*), [videos](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*)
+- [ ] **Download**: Presentation (*coming soon*): [part-1](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation%20(clustering%20algorithms)-part1.pdf), videos (*coming soon*)
 
 # Implementations
 
-- [x] clustering ([K-means](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_kmeans.ipynb), [DBSCAN](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_dbscan.ipynb), [Agglomerative](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_agglomerative.ipynb))
+- [x] Clustering algorithms ([K-means](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_kmeans.ipynb), [DBSCAN](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_dbscan.ipynb), [Agglomerative](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_agglomerative.ipynb))
 - [x] Evaluation metrics ([Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
 - [ ] *coming soon* ...
 
