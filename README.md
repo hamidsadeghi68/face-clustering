@@ -34,10 +34,11 @@ Contents of presentation file is as follows:
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering System
 
-- [ ] **Download**: [Presentation](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*), [videos](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*)
+- [ ] **Download**: [Presentation](https://github.com/hamidsadeghi68/face-clustering) ([part1](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation%20(clustering%20algorithms)-part1.pdf), *coming soon*), [videos](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*)
 
 # Implementations
 
+- [x] clustering ([K-means](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_kmeans.ipynb), [DBSCAN](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_dbscan.ipynb), [Agglomerative](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_agglomerative.ipynb))
 - [x] Evaluation metrics ([Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
 - [ ] *coming soon* ...
 
@@ -84,6 +85,8 @@ The test dataset is not published for [facecup](https://facecup.ir/) challenge p
 - Ester, M., et al. "[A density-based algorithm for discovering clusters in large spatial databases with noise](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf?source=post_page)." *kdd*. Vol. 96. No. 34. 1996.
 - Schubert, E., et al. (2017). [DBSCAN revisited, revisited: why and how you should (still) use DBSCAN](http://www.ccs.neu.edu/home/vip/teach/DMcourse/2_cluster_EM_mixt/notes_slides/revisitofrevisitDBSCAN.pdf). ACM Transactions on Database Systems (TODS), *42*(3), 1-21.
 - Silva, M., et al. "[Agglomerative concentric hypersphere clustering applied to structural damage detection](https://www.researchgate.net/profile/Moises-Silva-11/publication/313238175_Agglomerative_concentric_hypersphere_clustering_applied_to_structural_damage_detection/links/5b57403b0f7e9b240f0548df/Agglomerative-concentric-hypersphere-clustering-applied-to-structural-damage-detection.pdf)." Mechanical Systems and Signal Processing 92 (2017): 196-212.
+- Canziani, A., et al. "[An analysis of deep neural network models for practical applications](https://arxiv.org/pdf/1605.07678.pdf?source=post_page---------------------------)." *arXiv preprint arXiv:1605.07678*, 2016.
+- Bianco, S., et al. "[Benchmark analysis of representative deep neural network architectures](https://ieeexplore.ieee.org/iel7/6287639/6514899/08506339.pdf)." *IEEE Access*, *6*, 64270-64277, 2018.
 - https://github.com/ipazc/mtcnn
 - https://github.com/deepinsight/insightface
 - https://en.wikipedia.org/wiki/Cluster_analysis
