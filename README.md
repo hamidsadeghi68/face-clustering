@@ -38,23 +38,12 @@ Contents of presentation file is as follows:
 
 # Implementations
 
-- [x] Clustering algorithms
+- [x] Clustering algorithms ([K-means](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_kmeans.ipynb), [DBSCAN](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_dbscan.ipynb), [Agglomerative](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_agglomerative.ipynb))
 
-  &nbsp;&nbsp;&nbsp; - [K-means](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_kmeans.ipynb)<br>
-  &nbsp;&nbsp;&nbsp; - [DBSCAN](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_dbscan.ipynb)<br>
-  &nbsp;&nbsp;&nbsp; - [Agglomerative](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_agglomerative.ipynb)<br>
+- [x] Evaluation metrics ([Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
 
-- [x] Evaluation metrics
+- [ ] Face Analysis ([MTCNN Face Detection](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_detection_mtcnn.ipynb), [dlib Face Recognition](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb), other codes: *coming soon* ...)
 
-  &nbsp;&nbsp;&nbsp; - [Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
-
-- [ ] Face Analysis
-
-  &nbsp;&nbsp;&nbsp; - [Face Detection (MTCNN )](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_detection_mtcnn.ipynb)<br>
-
-  &nbsp;&nbsp;&nbsp; - [Face Recognition (dlib)](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb)<br>
-
-  &nbsp;&nbsp;&nbsp; - other codes: *coming soon* ...<br>
 
 
 
