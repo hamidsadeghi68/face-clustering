@@ -34,13 +34,13 @@ Contents of presentation file is as follows:
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering System
 
-- [ ] **Download**: Presentation (*coming soon*): [part-1](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation%20(clustering%20algorithms)-part1.pdf), videos (*coming soon*)
+- [ ] **Download**: Presentation (*coming soon*): [part-1](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation%20(clustering%20algorithms)-part1.pdf), [part-2](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation-part2.pdf), videos (*coming soon*)
 
 # Implementations
 
-- [x] Clustering algorithms ([K-means](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_kmeans.ipynb), [DBSCAN](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_dbscan.ipynb), [Agglomerative](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_agglomerative.ipynb))
+- [x] Clustering Algorithms ([K-means](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_kmeans.ipynb), [DBSCAN](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_dbscan.ipynb), [Agglomerative](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_agglomerative.ipynb))
 
-- [x] Evaluation metrics ([Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
+- [x] Evaluation Metrics ([Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
 
 - [ ] Face Analysis ([MTCNN Face Detection](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_detection_mtcnn.ipynb), [dlib Face Recognition](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb), other codes: *coming soon* ...)
 
@@ -80,6 +80,7 @@ The test dataset is not published for [facecup](https://facecup.ir/) challenge p
 - Christopher, D. M., Prabhakar, R., & Hinrich, S. C. H. U. T. Z. E., "[Introduction to information retrieval](http://155.0.32.9:8080/jspui/bitstream/123456789/1127/1/Introduction%20to%20information%20retrieval%20%28%20PDFDrive%20%29%20-%20Copy.pdf).", Chapter 16: Flat clustering (2008).
 - Zhang, Kaipeng, et al. "[Joint face detection and alignment using multitask cascaded convolutional networks.](https://arxiv.org/pdf/1604.02878)" IEEE Signal Processing Letters 23.10 (2016): 1499-1503.
 - Viola, P., & Jones, M., [Rapid object detection using a boosted cascade of simple features](https://merl.com/publications/docs/TR2004-043.pdf). CVPR 2001. 
+- F. Comaschi, et al. "[RASW: a run-time adaptive sliding window to improve viola-jones object detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.719.4174&rep=rep1&type=pdf)." *2013 Seventh International Conference on Distributed Smart Cameras (ICDSC)*. IEEE, 2013.
 - Deng, J., et al. [Retinaface: Single-shot multi-level face localisation in the wild](https://openaccess.thecvf.com/content_CVPR_2020/papers/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.pdf). CVPR 2020 (pp. 5203-5212).
 - Wang, M., & Deng, W. (2021). [Deep face recognition: A survey](https://arxiv.org/pdf/1804.06655.pdf?source=post_page---------------------------). Neurocomputing, *429*, 215-244.
 - Taigman, Y., et al. [Deepface: Closing the gap to human-level performance in face verification](https://openaccess.thecvf.com/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf). CVPR 2014 (pp. 1701-1708).
