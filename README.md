@@ -34,7 +34,7 @@ Contents of presentation file is as follows:
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering System
 
-- [ ] **Download**: Presentation (*coming soon*): [part-1](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation%20(clustering%20algorithms)-part1.pdf), [part-2](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation-part2.pdf), videos (*coming soon*)
+- [ ] **Download**: Presentation (*coming soon*): [part-1](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation%20(clustering%20algorithms)-part1.pdf), [part-2](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation-part2.pdf), [part-3](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation-part3.pdf), videos (*coming soon*)
 
 # Implementations
 
@@ -42,7 +42,7 @@ Contents of presentation file is as follows:
 
 - [x] Evaluation Metrics ([Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
 
-- [ ] Face Analysis ([MTCNN Face Detection](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_detection_mtcnn.ipynb), [dlib Face Recognition](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb), other codes: *coming soon* ...)
+- [x] Face Analysis ([MTCNN Face Detection](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_detection_mtcnn.ipynb), [dlib Face Recognition](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb), [ArcFace Face Recognition](https://github.com/hamidsadeghi68/face-clustering/blob/main/arcface.ipynb), [Face Clustering](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface.ipynb), [Face Clustering on FaceCup Sample Dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface_facecup_samples.ipynb))
 
 
 
