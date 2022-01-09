@@ -31,7 +31,7 @@ Contents of presentation file is as follows:
 ​	4- **Face Analysis**<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Detection ([code: MTCNN](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_detection_mtcnn.ipynb))<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Preprocessing<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition (code: [dlib](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb), [ArcFace](https://github.com/hamidsadeghi68/face-clustering/blob/main/arcface.ipynb), [feature matching](feature/template matching function))<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition (code: [dlib](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb), [ArcFace](https://github.com/hamidsadeghi68/face-clustering/blob/main/arcface.ipynb), [feature matching](https://github.com/hamidsadeghi68/face-clustering/blob/main/matching.py))<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering System (code: [on small dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface.ipynb), [on FaceCup sample dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface_facecup_samples.ipynb))
 
 - [ ] **Download**: [[Presentation](https://github.com/hamidsadeghi68/face-clustering/tree/main/presentation)], videos (*coming soon*)
