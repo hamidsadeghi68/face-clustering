@@ -8,7 +8,7 @@
 
 
 
-# Syllabus
+# Syllabus (and Implementations)
 
 Contents of presentation file is as follows:
 
@@ -18,57 +18,58 @@ Contents of presentation file is as follows:
 
 ​	2- **Clustering Algorithms**<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Introduction to Clustering Algorithms (Categorization)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - K-means Clustering<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - DBSCAN Clustering<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Agglomerative Clustering<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - K-means Clustering ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_kmeans.ipynb))<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - DBSCAN Clustering ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_dbscan.ipynb))<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Agglomerative Clustering ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_agglomerative.ipynb))<br>
 
 ​	3- **Evaluation Metrics**<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Purity<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Rand index<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - F-measure<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Normalized Mutual Information (NMI)
+&nbsp;&nbsp;&nbsp;&nbsp; - Rand index ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - F-measure ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Normalized Mutual Information (NMI) ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
 
 ​	4- **Face Analysis**<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Face Detection<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Face Detection ([code: MTCNN](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_detection_mtcnn.ipynb))<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Preprocessing<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering System
+&nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition (code: [dlib](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb), [ArcFace](https://github.com/hamidsadeghi68/face-clustering/blob/main/arcface.ipynb), [feature matching](feature/template matching function))<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering System (code: [on small dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface.ipynb), [on FaceCup sample dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface_facecup_samples.ipynb))
 
-- [ ] **Download**: Presentation (*coming soon*): [part-1](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation%20(clustering%20algorithms)-part1.pdf), [part-2](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation-part2.pdf), [part-3](https://github.com/hamidsadeghi68/face-clustering/raw/main/presentation-part3.pdf), videos (*coming soon*)
-
-# Implementations
-
-- [x] Clustering Algorithms ([K-means](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_kmeans.ipynb), [DBSCAN](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_dbscan.ipynb), [Agglomerative](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_agglomerative.ipynb))
-
-- [x] Evaluation Metrics ([Rand index, F-measure, and NMI](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
-
-- [x] Face Analysis ([MTCNN Face Detection](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_detection_mtcnn.ipynb), [dlib Face Recognition](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb), [ArcFace Face Recognition](https://github.com/hamidsadeghi68/face-clustering/blob/main/arcface.ipynb), [Face Clustering](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface.ipynb), [Face Clustering on FaceCup Sample Dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface_facecup_samples.ipynb))
+- [ ] **Download**: [[Presentation](https://github.com/hamidsadeghi68/face-clustering/tree/main/presentation)], videos (*coming soon*)
 
 
 
 
 # FaceCup dataset
 
-The test dataset is not published for [facecup](https://facecup.ir/) challenge purposes. Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image file name as follows:
+The test dataset is not published for [FaceCup](https://facecup.ir/) challenge purposes. Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image file name as follows:
 
 ![image](https://user-images.githubusercontent.com/70681172/144975617-a3bff6c2-8a16-48d6-86c1-ba252abf4128.png)
 
 
 
-- [ ] **Download**: [Google Drive](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*), [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286)
+- [ ] **Download**: [Google Drive](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*), [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286) (is available for participants in their panel)
 
 
 
 # Useful links
 
+## Face Analysis
+
 - https://github.com/becauseofAI/HelloFace
 - https://github.com/ChanChiChoi/awesome-Face_Recognition
-- https://github.com/zhoushengisnoob/DeepClustering
 - https://github.com/polarisZhao/awesome-face
 - https://github.com/RizhaoCai/Awesome-FAS
 - https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection
 - https://awesomeopensource.com/projects/face-detection
-- https://gitlist.top/lists/face-recognition
+- https://gitlist.top/lists/face-recognition<br>
+
+## Clustering (including face clustering)
+
+- https://github.com/zhoushengisnoob/DeepClustering
+- https://github.com/scikit-learn-contrib/hdbscan
+- https://github.com/yl-1993/learn-to-cluster
+- https://github.com/varun-suresh/Clustering/blob/master/clustering.py
+- https://github.com/Zhongdao/gcn_clustering<br>
 
 
 
