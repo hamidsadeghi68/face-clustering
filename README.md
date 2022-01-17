@@ -18,28 +18,28 @@ Contents of presentation file is as follows:
 
 ​	2- **Clustering Algorithms**<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Introduction to Clustering Algorithms (Categorization)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - K-means Clustering ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_kmeans.ipynb))<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - DBSCAN Clustering ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_dbscan.ipynb))<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Agglomerative Clustering ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_agglomerative.ipynb))<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - K-means Clustering [[code](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_kmeans.ipynb)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - DBSCAN Clustering [[code](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_dbscan.ipynb)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Agglomerative Clustering [[code](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_agglomerative.ipynb)]<br>
 
 ​	3- **Evaluation Metrics**<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Purity<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Rand index ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - F-measure ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Normalized Mutual Information (NMI) ([code](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py))
+&nbsp;&nbsp;&nbsp;&nbsp; - Rand index [[code](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - F-measure [[code](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Normalized Mutual Information (NMI) [[code](https://github.com/hamidsadeghi68/face-clustering/blob/main/evaluation.py)]
 
 ​	4- **Face Analysis**<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Face Detection ([code: MTCNN](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_detection_mtcnn.ipynb))<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Face Detection [[code: MTCNN](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_detection_mtcnn.ipynb)]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Preprocessing<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition (code: [dlib](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb), [ArcFace](https://github.com/hamidsadeghi68/face-clustering/blob/main/arcface.ipynb), [feature matching](https://github.com/hamidsadeghi68/face-clustering/blob/main/matching.py))<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering System (code: [on small dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface.ipynb), [on FaceCup sample dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface_facecup_samples.ipynb))
+&nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition [code: [dlib](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb), [ArcFace](https://github.com/hamidsadeghi68/face-clustering/blob/main/arcface.ipynb), [feature matching](https://github.com/hamidsadeghi68/face-clustering/blob/main/matching.py)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering System [code: [on small dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface.ipynb), [on FaceCup sample dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface_facecup_samples.ipynb)]
 
 - [ ] **Download**: [[Presentation](https://github.com/hamidsadeghi68/face-clustering/tree/main/presentation)], videos (*coming soon*)
 
 
 
 
-# FaceCup dataset
+# FaceCup Dataset
 
 The test dataset is not published for [FaceCup](https://facecup.ir/) challenge purposes. Sample dataset published for participants contains 899 images. Identity label for each image can be obtained from image file name as follows:
 
@@ -51,7 +51,7 @@ The test dataset is not published for [FaceCup](https://facecup.ir/) challenge p
 
 
 
-# Useful links
+# Useful Links
 
 ## Face Analysis
 
@@ -63,7 +63,7 @@ The test dataset is not published for [FaceCup](https://facecup.ir/) challenge p
 - https://awesomeopensource.com/projects/face-detection
 - https://gitlist.top/lists/face-recognition<br>
 
-## Clustering (including face clustering)
+## Clustering (including Face Clustering)
 
 - https://github.com/zhoushengisnoob/DeepClustering
 - https://github.com/scikit-learn-contrib/hdbscan
