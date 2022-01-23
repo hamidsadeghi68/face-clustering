@@ -61,7 +61,7 @@ The test dataset is not published for [FaceCup](https://facecup.ir/) challenge p
 
 Download the .zip file and replace the username and password by your ones in *run_insightface_sklearn_clustering.py* file as follows:
 
-![image-20220123095427408](C:\Users\Tandis\AppData\Roaming\Typora\typora-user-images\image-20220123095427408.png)
+![image](https://user-images.githubusercontent.com/70681172/150667297-565715c8-6482-44cf-aec2-1d50efaeeabb.png)
 
 
 
