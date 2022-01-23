@@ -2,7 +2,7 @@
 
 # News
 
-🔥 A complete face clustering [code](https://github.com/hamidsadeghi68/face-clustering#a-complete-and-easy-to-use-code-for-facecup) (with dockerfile etc.) according to FaceCup rules has been added (1/23/2020).
+🔥 A complete face clustering [code](https://github.com/hamidsadeghi68/face-clustering#a-complete-and-easy-to-use-code-for-facecup) (with Dockerfile etc.) according to FaceCup rules has been added (1/23/2020).
 
 
 
@@ -57,13 +57,15 @@ The test dataset is not published for [FaceCup](https://facecup.ir/) challenge p
 
 # A complete and easy-to-use code for FaceCup
 
-🔥 A complete face clustering code (with dockerfile etc.) according to FaceCup rules has been added in [*clustering_via_insightface_for_facecup.zip*](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_via_insightface_for_facecup.zip).
+🔥 A complete face clustering code (with Dockerfile etc.) according to FaceCup rules has been added in [*clustering_via_insightface_for_facecup.zip*](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_via_insightface_for_facecup.zip).
 
 Download the .zip file and replace the username and password by your ones in *run_insightface_sklearn_clustering.py* file as follows:
 
 ![image](https://user-images.githubusercontent.com/70681172/150667297-565715c8-6482-44cf-aec2-1d50efaeeabb.png)
 
+**<br>NOTE:** You can change Face Detection and Feature Extraction models as well as clustering algorithm and parameters to achieve better results.
 
+**NOTE**: This code runs on CPU. You can change Dockerfile and requirements.txt (as the previous codes) to run it faster on GPU.<br><br>
 
 # Useful Links
 
