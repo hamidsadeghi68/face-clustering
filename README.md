@@ -1,5 +1,9 @@
 # Clustering Algorithms and their Application to Facial Image Analysis
 
+# News
+
+🔥 A complete face clustering [code](https://github.com/hamidsadeghi68/face-clustering#a-complete-and-easy-to-use-code-for-facecup) (with dockerfile etc.) according to FaceCup rules has been added (1/23/2020).
+
 
 
 # Introduction
@@ -48,6 +52,16 @@ The test dataset is not published for [FaceCup](https://facecup.ir/) challenge p
 
 
 - [ ] **Download**: [Google Drive](https://github.com/hamidsadeghi68/face-clustering) (*coming soon*), [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286) (is available for participants in their panel)
+
+
+
+# A complete and easy-to-use code for FaceCup
+
+🔥 A complete face clustering code (with dockerfile etc.) according to FaceCup rules has been added in [*clustering_via_insightface_for_facecup.zip*](https://github.com/hamidsadeghi68/face-clustering/blob/main/clustering_via_insightface_for_facecup.zip).
+
+Download the .zip file and replace the username and password by your ones in *run_insightface_sklearn_clustering.py* file as follows:
+
+![image-20220123095427408](C:\Users\Tandis\AppData\Roaming\Typora\typora-user-images\image-20220123095427408.png)
 
 
 
