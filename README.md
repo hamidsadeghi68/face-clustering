@@ -65,7 +65,7 @@ Download the .zip file and replace the username and password by your ones in *ru
 
 **<br>NOTE:** You can change Face Detection and Feature Extraction models as well as clustering algorithm and parameters to achieve better results.
 
-**NOTE**: This code runs on CPU. You can change Dockerfile and requirements.txt (as the previous codes) to run it faster on GPU.<br><br>
+**NOTE**: This code is run on CPU. You can change Dockerfile and requirements.txt (as the previous codes) to run it faster on GPU.<br><br>
 
 # Useful Links
 
