@@ -38,7 +38,7 @@ Contents of presentation files are as follows:
 &nbsp;&nbsp;&nbsp;&nbsp; - Face Recognition [code: [dlib](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_recognition_using_dlib.ipynb), [ArcFace](https://github.com/hamidsadeghi68/face-clustering/blob/main/arcface.ipynb), [feature matching](https://github.com/hamidsadeghi68/face-clustering/blob/main/matching.py)]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - A Complete Face Clustering System [code: [on small dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface.ipynb), [on FaceCup sample dataset](https://github.com/hamidsadeghi68/face-clustering/blob/main/face_clustering_arcface_facecup_samples.ipynb)]
 
-- [x] **Download**: [[Presentation](https://github.com/hamidsadeghi68/face-clustering/tree/main/presentation)], videos (is available for participants: [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286))
+- [x] **Download**: [[Presentation](https://github.com/hamidsadeghi68/face-clustering/tree/main/presentation)], videos (are available for participants: [FaceCup](https://facecup.ir/news/cc622bd2-7765-4383-8c39-9e074a5e1286))
 
 
 
