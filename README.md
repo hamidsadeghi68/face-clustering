@@ -2,7 +2,7 @@
 
 # News
 
-🔥 A complete face clustering [code](https://github.com/hamidsadeghi68/face-clustering#a-complete-and-easy-to-use-code-for-facecup) (with Dockerfile etc.) according to FaceCup rules has been added (1/23/2020).
+🔥 A complete face clustering [code](https://github.com/hamidsadeghi68/face-clustering#a-complete-and-easy-to-use-code-for-facecup) (with Dockerfile etc.) according to FaceCup rules has been added (1/23/2022).
 
 
 
